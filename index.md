@@ -60,6 +60,6 @@ From the replay of Ashley’s user session, we’ve finally found out where the 
 
 ## Step 4. Fix your app
 
-Now when you know what went wrong, it’s time to eliminate the problem that may have caused so much of your clients’ frustration. Whether it’s a broken HTML tag, outdated JavaScript code, or protocol issue, you now know where to start from.
+Now when you know what went wrong, it’s time to get rid of the problem that may have caused so much of your clients’ frustration. Whether it’s a broken HTML tag, outdated JavaScript code, or protocol issue, you now know where to start from.
 
 Good luck and happy development!
